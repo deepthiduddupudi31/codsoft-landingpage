@@ -1,0 +1,77 @@
+.back
+{
+    height:810px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/netflix.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.icon
+{
+    height:100px;
+    width:200px;
+    background-image: url('images/net.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left:170px;
+
+}
+.nav
+{
+    display:flex;
+}
+ .drop
+ {
+    height:30px;
+    width:100px;
+    margin-top:30px;
+     margin-left: 900px;
+     text-align: center;
+     display: flex;
+ }
+ .drop form button
+ {
+    background-color: red;
+    color:black;
+ }
+ .main{
+    height:400px;
+    margin-top: 80px;
+    margin-right:100px;
+ }
+ .main h1{
+    color:white;
+    text-align: center;
+    font-size:65px;
+    margin-top: 60px;
+
+ }
+ .main p{
+    color:white;
+    text-align: center;
+    font-size:30px;
+    margin-top:25px;
+
+
+ }
+ .down
+ {
+    display:flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+ }
+ form{
+    font-size: 19px;
+ }
+ input{
+    font-size: 1.9em;
+ }
+ .sign 
+ {
+    margin-left:800px;
+    margin-top: 20px;
+    
+ }
+
